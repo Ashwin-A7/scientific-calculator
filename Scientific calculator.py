@@ -1,7 +1,7 @@
 import math
 while(True):
     print(" _______________________________")
-    print("|        **CALCULATOR**       |")
+    print("|        **CALCULATOR**         |")
     print("|                               |")
     print("|  1.ADD                        |")
     print("|  2.SUBTRACT                   |")
