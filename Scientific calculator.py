@@ -17,7 +17,7 @@ while(True):
     print("|  12.CONVERT DEGREE TO RADIAN  |")
     print("|  13.EXIT                      |")
     print("|_______________________________|")
-    opt=int(input())
+    opt=int(input("Please Enter The Number From Above Table: "))
     if(opt==1):
         print("ENTER TWO NUMBERS")
         a=int(input())
@@ -78,3 +78,5 @@ while(True):
     elif(opt==13):
         print("**THANK YOU FOR USING MY CALCULATOR**")
         break
+    else:
+        print("Invalid, Please Enter The opt Between 1-13")
